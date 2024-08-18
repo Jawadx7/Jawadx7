@@ -1,6 +1,6 @@
 ## Welcome to my codeverse 😎👋 ...
 
-[![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1701907200&v=beta&t=OD7XwKW1pKpQj8FiIhKo8OKHi1iujMZ_eGf9A0DkI-U)](https://jawadx.vercel.app/)
+[![MasterHead](https://x.com/Nassam_Jawad/header_photo)](https://jawadx.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Jawad</h1>
 <h3 align="center">A passionate web application developer</h3>
