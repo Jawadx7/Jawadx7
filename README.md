@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NextJS**
 
-- 👨‍💻 All of my projects are available at [https://jawadx.vercel.app](https://jawaddev.vercel.app)
+- 👨‍💻 All of my projects are available at [https://jawaddev.vercel.app](https://jawaddev.vercel.app)
 
 - 💬 Ask me about **React, JavaScript, TailwindCSS :)**
 
